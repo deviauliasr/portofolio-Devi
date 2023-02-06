@@ -1,0 +1,7 @@
+# TUGAS
+
+- salin tugas redux login yg telah kalian kerjakan dengan nama gen-12-tugas-react-redux-toolkit(X)
+- ubah redux versi switch menjadi toolkit(X)
+- buat keadaan/status loginnya tetap ada walaupun direfresh (important)
+- buat beberapa halaman yg tidak bisa/boleh diakses jika belum login
+- max dikumpulkan jam 16.30
